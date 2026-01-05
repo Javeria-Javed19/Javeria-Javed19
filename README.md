@@ -1,12 +1,12 @@
-<!-- ===== PROFILE IMAGE ===== -->
+<!-- ===== PROFILE IMAGE WITH BORDER & SHADOW ===== -->
 <p align="center">
-  <img src="https://github.com/Javeria-Javed19.png" width="150" style="border-radius:50%;"/>
+  <img src="https://github.com/Javeria-Javed19.png" width="180" style="border-radius:50%; border:6px solid #C77DFF; box-shadow: 0 8px 30px rgba(199,125,255,0.6);"/>
 </p>
 
-<!-- ===== HEADER / NAME SECTION ===== -->
+<!-- ===== NAME HEADER ===== -->
 <div align="center">
-  <h1 style="font-size:72px; font-weight:900; color:#8A2BE2; text-shadow: 2px 2px 10px rgba(0,0,0,0.4);">
-    Javeria Javed
+  <h1 style="font-size:84px; font-weight:900; background: linear-gradient(90deg, #C77DFF, #9D4EDD); -webkit-background-clip: text; color: transparent; text-shadow: 0 4px 20px rgba(0,0,0,0.4);">
+    JAVERIA JAVED
   </h1>
   <h3 style="color:#DA70D6; font-weight:700;">
     BS Artificial Intelligence Student
@@ -14,14 +14,14 @@
   <p style="color:#EDE9FF; font-style:italic; font-size:18px;">
     Learning with <b>purpose</b> • Growing with <b>consistency</b> • Building with <b>patience</b>
   </p>
-  <div style="width:120px; height:5px; background: linear-gradient(to right, #C77DFF, #9D4EDD); margin:12px auto; border-radius:10px;"></div>
+  <div style="width:140px; height:6px; background: linear-gradient(to right, #C77DFF, #9D4EDD); margin:14px auto; border-radius:10px;"></div>
 </div>
 
 <br/>
 
 <!-- ===== GIF ===== -->
 <p align="right">
-  <img width="310" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+  <img width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </p>
 
 ---
