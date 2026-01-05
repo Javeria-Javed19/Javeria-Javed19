@@ -1,6 +1,6 @@
 <!-- ===== PROFILE IMAGE ===== -->
-<div align="center">
-  <img src="https://github.com/Javeria-Javed.png"
+<p align="center">
+  <img src="https://github.com/Javeria-Javed19.png"
        width="150"
        style="
          border-radius:50%;
